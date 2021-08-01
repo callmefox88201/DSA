@@ -1,0 +1,9 @@
+EdgeListGraph
+5
+K H
+K T
+H B
+H D
+H T
+D T
+B T
